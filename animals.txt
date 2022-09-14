@@ -1,1 +1,10 @@
 ------------------Animals-----------------
+monkey
+whale
+dolfin
+turtle
+chimpanse
+pig
+cow
+chicken
+alpaca
