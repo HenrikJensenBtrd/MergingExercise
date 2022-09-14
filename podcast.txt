@@ -1,5 +1,9 @@
 ---------------Podcasts------------
 Auslaufen Podcasts
 sofa session
+<<<<<<< HEAD
 Bestzeit
 hierkrachts
+=======
+daheimallein
+>>>>>>> conflicts
