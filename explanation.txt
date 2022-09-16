@@ -1,0 +1,10 @@
+Why is this file created and what is the use of it?
+
+
+Firstly i jumped back in commit history to make a new branch off of an older commit with "checkout".
+Then I switched to a new branch after copying all commits from the master branch up to the point of the commit I jumped to.
+Lastly I created a new file, so the branch has an own commit seperate from the master branch.
+
+Why did i do this?
+
+To check if i can push a second branch onto the git repository from the command line.
